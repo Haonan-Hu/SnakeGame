@@ -1,0 +1,20 @@
+body
+{
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+}
+
+canvas
+{
+  border: 2px solid white;
+  background-color: Green;
+  width: 500px;
+  height: 500px;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  display: block;
+}
